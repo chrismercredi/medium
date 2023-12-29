@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:valuenotifiercounterexample/bloc_counter/bloc/counter_bloc.dart';
+import 'package:frombasicstobrilliance/bloc_counter/bloc/counter_bloc.dart';
 
 import 'counter_screen.dart'; // Assuming CounterScreen is defined in counter_screen.dart
 
