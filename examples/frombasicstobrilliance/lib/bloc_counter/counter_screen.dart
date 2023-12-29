@@ -1,6 +1,8 @@
+/// counter_screen.dart
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:valuenotifiercounterexample/bloc_counter/bloc/counter_bloc.dart';
+import 'package:frombasicstobrilliance/bloc_counter/bloc/counter_bloc.dart';
 
 /// A screen that displays a counter managed by [CounterBloc].
 ///

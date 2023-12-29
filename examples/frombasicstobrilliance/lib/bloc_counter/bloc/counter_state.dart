@@ -1,3 +1,5 @@
+/// counter_state.dart
+
 part of 'counter_bloc.dart';
 
 @immutable

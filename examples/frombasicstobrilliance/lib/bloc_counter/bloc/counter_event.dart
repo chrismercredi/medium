@@ -1,3 +1,5 @@
+/// counter_event.dart
+
 part of 'counter_bloc.dart';
 
 /// Abstract class representing the events handled by [CounterBloc].
